@@ -72,10 +72,11 @@ I enjoy building things that **actually run in production**, not just demos.
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=yuvrajarora1805&show_icons=true&theme=default&hide_border=true&cache_seconds=1800"
+    src="https://cdn.jsdelivr.net/gh/anuraghazra/github-readme-stats@master/api?username=yuvrajarora1805&show_icons=true&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
+
 
 ---
 
