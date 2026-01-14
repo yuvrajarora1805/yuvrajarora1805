@@ -71,7 +71,10 @@ I enjoy building things that **actually run in production**, not just demos.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajarora1805&show_icons=true&theme=default&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=yuvrajarora1805&show_icons=true&theme=default&hide_border=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
