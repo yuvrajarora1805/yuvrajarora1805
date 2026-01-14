@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yuvraj+Arora+%F0%9F%91%8B;Engineering+Student;Embedded+Systems+%26+Backend+Developer;Open+to+Internships+%26+Full-Time+Roles"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yuvraj+Arora+%F0%9F%91%8B;Engineering+Student;Embedded+Systems+%26+Backend+Developer;Open+to+Internships"
     alt="Typing SVG"
   />
 </p>
